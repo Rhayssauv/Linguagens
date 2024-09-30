@@ -22,7 +22,6 @@ class Program
             // Simula uma espera de 2 segundos
             await Task.Delay(2000); 
 
-            // Aqui você poderia fazer uma chamada a uma API real
             // var response = await client.GetAsync("https://api.exemplo.com/dados");
             // return await response.Content.ReadAsStringAsync();
 
